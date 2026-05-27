@@ -6,7 +6,7 @@ An AI-powered resume analyzer that gives brutally honest feedback, a score out o
 
 ## Screenshot
 
-![ResumeX Demo](screenshot.png)
+![ResumeX Demo](Screenshot.png)
 
 ---
 
